@@ -1,4 +1,4 @@
-```markdown
+
 # SMS Spam Classifier
 
 This project utilizes Python, Streamlit, NLTK, and machine learning techniques to create a web application that classifies SMS messages as spam or not spam. The application uses a pre-trained model and a TF-IDF vectorizer to analyze the text of SMS messages.
